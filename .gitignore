@@ -29,6 +29,8 @@ coverage
 
 # nyc test coverage
 .nyc_output
+# .gitignore
+.DS_Store
 
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
